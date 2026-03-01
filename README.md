@@ -68,6 +68,7 @@ This project focuses on:
 
 ---
 
-## 👤 Author
+##  Author
+   Koppala Navya 
 
 Built as a Product Management case study project to demonstrate user research, MVP scoping, and data-driven decision-making.
